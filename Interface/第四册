@@ -1,147 +1,243 @@
 {
 	"list": [{
 		"id": 1,
-		"title": "Finding Fossil Man"
+		"title": "Finding Fossil Man",
+		"music": "01\uff0dFinding Fossil Man.MP3",
+		"lyric": "01\uff0dFinding Fossil Man.lrc"
 	}, {
 		"id": 2,
-		"title": "Spare That Spider"
+		"title": "Spare That Spider",
+		"music": "02\uff0dSpare That Spider.MP3",
+		"lyric": "02\uff0dSpare That Spider.lrc"
 	}, {
 		"id": 3,
-		"title": "Matterhorn Man"
+		"title": "Matterhorn Man",
+		"music": "03\uff0dMatterhorn Man.MP3",
+		"lyric": "03\uff0dMatterhorn Man.lrc"
 	}, {
 		"id": 4,
-		"title": "Seeing Hands"
+		"title": "Seeing Hands",
+		"music": "04\uff0dSeeing Hands.MP3",
+		"lyric": "04\uff0dSeeing Hands.lrc"
 	}, {
 		"id": 5,
-		"title": "Youth"
+		"title": "Youth",
+		"music": "05\uff0dYouth.MP3",
+		"lyric": "05\uff0dYouth.lrc"
 	}, {
 		"id": 6,
-		"title": "The Sporting Spirit"
+		"title": "The Sporting Spirit",
+		"music": "06\uff0dThe Sporting Spirit.MP3",
+		"lyric": "06\uff0dThe Sporting Spirit.lrc"
 	}, {
 		"id": 7,
-		"title": "Bats"
+		"title": "Bats",
+		"music": "07\uff0dBats.MP3",
+		"lyric": "07\uff0dBats.lrc"
 	}, {
 		"id": 8,
-		"title": "Trading Standards"
+		"title": "Trading Standards",
+		"music": "08\uff0dTrading Standards.MP3",
+		"lyric": "08\uff0dTrading Standards.lrc"
 	}, {
 		"id": 9,
-		"title": "Royal Espionage"
+		"title": "Royal Espionage",
+		"music": "09\uff0dRoyal Espionage.MP3",
+		"lyric": "09\uff0dRoyal Espionage.lrc"
 	}, {
 		"id": 10,
-		"title": "Silicon Valley"
+		"title": "Silicon Valley",
+		"music": "10\uff0dSilicon Valley.MP3",
+		"lyric": "10\uff0dSilicon Valley.lrc"
 	}, {
 		"id": 11,
-		"title": "How to Grow Old"
+		"title": "How to Grow Old",
+		"music": "11\uff0dHow to Grow Old.MP3",
+		"lyric": "11\uff0dHow to Grow Old.lrc"
 	}, {
 		"id": 12,
-		"title": "Banks and Their Customers"
+		"title": "Banks and Their Customers",
+		"music": "12\uff0dBanks and Their Customers.MP3",
+		"lyric": "12\uff0dBanks and Their Customers.lrc"
 	}, {
 		"id": 13,
-		"title": "The Search for Oil"
+		"title": "The Search for Oil",
+		"music": "13\uff0dThe Search for Oil.MP3",
+		"lyric": "13\uff0dThe Search for Oil.lrc"
 	}, {
 		"id": 14,
-		"title": "The Butterfly Effect"
+		"title": "The Butterfly Effect",
+		"music": "14\uff0dThe Butterfly Effect.MP3",
+		"lyric": "14\uff0dThe Butterfly Effect.lrc"
 	}, {
 		"id": 15,
-		"title": "Secrecy in Industry"
+		"title": "Secrecy in Industry",
+		"music": "15\uff0dSecrecy in Industry.MP3",
+		"lyric": "15\uff0dSecrecy in Industry.lrc"
 	}, {
 		"id": 16,
-		"title": "The Modern City"
+		"title": "The Modern City",
+		"music": "16\uff0dThe Modern City.MP3",
+		"lyric": "16\uff0dThe Modern City.lrc"
 	}, {
 		"id": 17,
-		"title": "A Man-made Disease"
+		"title": "A Man-made Disease",
+		"music": "17\uff0dA Man-made Disease.MP3",
+		"lyric": "17\uff0dA Man-made Disease.lrc"
 	}, {
 		"id": 18,
-		"title": "Porpoises"
+		"title": "Porpoises",
+		"music": "18\uff0dPorpoises.MP3",
+		"lyric": "18\uff0dPorpoises.lrc"
 	}, {
 		"id": 19,
-		"title": "The Stuff of Dreams"
+		"title": "The Stuff of Dreams",
+		"music": "19\uff0dThe Stuff of Dreams.MP3",
+		"lyric": "19\uff0dThe Stuff of Dreams.lrc"
 	}, {
 		"id": 20,
-		"title": "Snake Poison"
+		"title": "Snake Poison",
+		"music": "20\uff0dSnake Poison.MP3",
+		"lyric": "20\uff0dSnake Poison.lrc"
 	}, {
 		"id": 21,
-		"title": "William S"
+		"title": "William S",
+		"music": "21\uff0dWilliam S. Hart and the Early Western Film.MP3",
+		"lyric": "21\uff0dWilliam S. Hart and the Early Western Film.lrc"
 	}, {
 		"id": 22,
-		"title": "Knowledge and Progress"
+		"title": "Knowledge and Progress",
+		"music": "22\uff0dKnowledge and Progress.MP3",
+		"lyric": "22\uff0dKnowledge and Progress.lrc"
 	}, {
 		"id": 23,
-		"title": "Bird Flight"
+		"title": "Bird Flight",
+		"music": "23\uff0dBird Flight.MP3",
+		"lyric": "23\uff0dBird Flight.lrc"
 	}, {
 		"id": 24,
-		"title": "Beauty"
+		"title": "Beauty",
+		"music": "24\uff0dBeauty.MP3",
+		"lyric": "24\uff0dBeauty.lrc"
 	}, {
 		"id": 25,
-		"title": "Non-Auditory Effects of Noise"
+		"title": "Non-Auditory Effects of Noise",
+		"music": "25\uff0dNon-Auditory Effects of Noise.MP3",
+		"lyric": "25\uff0dNon-Auditory Effects of Noise.lrc"
 	}, {
 		"id": 26,
-		"title": "The Past Life of the Earth"
+		"title": "The Past Life of the Earth",
+		"music": "26\uff0dThe Past Life of the Earth.MP3",
+		"lyric": "26\uff0dThe Past Life of the Earth.lrc"
 	}, {
 		"id": 27,
-		"title": "The vasa"
+		"title": "The vasa",
+		"music": "27\uff0dThe vasa.MP3",
+		"lyric": "27\uff0dThe vasa.lrc"
 	}, {
 		"id": 28,
-		"title": "Patients and Doctors"
+		"title": "Patients and Doctors",
+		"music": "28\uff0dPatients and Doctors.MP3",
+		"lyric": "28\uff0dPatients and Doctors.lrc"
 	}, {
 		"id": 29,
-		"title": "The Hovercraft"
+		"title": "The Hovercraft",
+		"music": "29\uff0dThe Hovercraft.MP3",
+		"lyric": "29\uff0dThe Hovercraft.lrc"
 	}, {
 		"id": 30,
-		"title": "Exploring the Sea-Floor"
+		"title": "Exploring the Sea-Floor",
+		"music": "30\uff0dExploring the Sea-Floor.MP3",
+		"lyric": "30\uff0dExploring the Sea-Floor.lrc"
 	}, {
 		"id": 31,
-		"title": "The Sculptor Speaks"
+		"title": "The Sculptor Speaks",
+		"music": "31\uff0dThe Sculptor Speaks.MP3",
+		"lyric": "31\uff0dThe Sculptor Speaks.lrc"
 	}, {
 		"id": 32,
-		"title": "Galileo Reborn"
+		"title": "Galileo Reborn",
+		"music": "32\uff0dGalileo Reborn.MP3",
+		"lyric": "32\uff0dGalileo Reborn.lrc"
 	}, {
 		"id": 33,
-		"title": "Education"
+		"title": "Education",
+		"music": "33\uff0dEducation.MP3",
+		"lyric": "33\uff0dEducation.lrc"
 	}, {
 		"id": 34,
-		"title": "Adolescence"
+		"title": "Adolescence",
+		"music": "34\uff0dAdolescence.MP3",
+		"lyric": "34\uff0dAdolescence.lrc"
 	}, {
 		"id": 35,
-		"title": "Space Odyssey"
+		"title": "Space Odyssey",
+		"music": "35\uff0dSpace Odyssey.MP3",
+		"lyric": "35\uff0dSpace Odyssey.lrc"
 	}, {
 		"id": 36,
-		"title": "The Cost of Government"
+		"title": "The Cost of Government",
+		"music": "36\uff0dThe Cost of Government.MP3",
+		"lyric": "36\uff0dThe Cost of Government.lrc"
 	}, {
 		"id": 37,
-		"title": "The Process of Ageing"
+		"title": "The Process of Ageing",
+		"music": "37\uff0dThe Process of Ageing.MP3",
+		"lyric": "37\uff0dThe Process of Ageing.lrc"
 	}, {
 		"id": 38,
-		"title": "Water and the Traveller"
+		"title": "Water and the Traveller",
+		"music": "38\uff0dWater and the Traveller.MP3",
+		"lyric": "38\uff0dWater and the Traveller.lrc"
 	}, {
 		"id": 39,
-		"title": "What Every Writer Wants"
+		"title": "What Every Writer Wants",
+		"music": "39\uff0dWhat Every Writer Wants.MP3",
+		"lyric": "39\uff0dWhat Every Writer Wants.lrc"
 	}, {
 		"id": 40,
-		"title": "Waves"
+		"title": "Waves",
+		"music": "40\uff0dWaves.MP3",
+		"lyric": "40\uff0dWaves.lrc"
 	}, {
 		"id": 41,
-		"title": "Training Elephants"
+		"title": "Training Elephants",
+		"music": "41\uff0dTraining Elephants.MP3",
+		"lyric": "41\uff0dTraining Elephants.lrc"
 	}, {
 		"id": 42,
-		"title": "Recording an Earthquake"
+		"title": "Recording an Earthquake",
+		"music": "42\uff0dRecording an Earthquake.MP3",
+		"lyric": "42\uff0dRecording an Earthquake.lrc"
 	}, {
 		"id": 43,
-		"title": "Are There Strangers in Space"
+		"title": "Are There Strangers in Space",
+		"music": "43\uff0dAre There Strangers in Space.MP3",
+		"lyric": "43\uff0dAre There Strangers in Space.lrc"
 	}, {
 		"id": 44,
-		"title": "Patterns of Culture"
+		"title": "Patterns of Culture",
+		"music": "44\uff0dPatterns of Culture.MP3",
+		"lyric": "44\uff0dPatterns of Culture.lrc"
 	}, {
 		"id": 45,
-		"title": "Of Men and Galaxies"
+		"title": "Of Men and Galaxies",
+		"music": "45\uff0dOf Men and Galaxies.MP3",
+		"lyric": "45\uff0dOf Men and Galaxies.lrc"
 	}, {
 		"id": 46,
-		"title": "Hobbies"
+		"title": "Hobbies",
+		"music": "46\uff0dHobbies.MP3",
+		"lyric": "46\uff0dHobbies.lrc"
 	}, {
 		"id": 47,
-		"title": "The Great Escape"
+		"title": "The Great Escape",
+		"music": "47\uff0dThe Great Escape.MP3",
+		"lyric": "47\uff0dThe Great Escape.lrc"
 	}, {
 		"id": 48,
-		"title": "Planning a Share Portfolio"
+		"title": "Planning a Share Portfolio",
+		"music": "48\uff0dPlanning a Share Portfolio.MP3",
+		"lyric": "48\uff0dPlanning a Share Portfolio.lrc"
 	}]
 }
