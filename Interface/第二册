@@ -1,291 +1,483 @@
 {
 	"list": [{
 		"id": 1,
-		"title": "A Private Conversation"
+		"title": "A Private Conversation",
+		"music": "01\uff0dA Private Conversation.MP3",
+		"lyric": "01\uff0dA Private Conversation.lrc"
 	}, {
 		"id": 2,
-		"title": "Breakfast or Lunch"
+		"title": "Breakfast or Lunch",
+		"music": "02\uff0dBreakfast or Lunch.MP3",
+		"lyric": "02\uff0dBreakfast or Lunch.lrc"
 	}, {
 		"id": 3,
-		"title": "Please Send Me a Card"
+		"title": "Please Send Me a Card",
+		"music": "03\uff0dPlease Send Me a Card.MP3",
+		"lyric": "03\uff0dPlease Send Me a Card.lrc"
 	}, {
 		"id": 4,
-		"title": "An Exciting Trip"
+		"title": "An Exciting Trip",
+		"music": "04\uff0dAn Exciting Trip.MP3",
+		"lyric": "04\uff0dAn Exciting Trip.lrc"
 	}, {
 		"id": 5,
-		"title": "No Wrong Numbers"
+		"title": "No Wrong Numbers",
+		"music": "05\uff0dNo Wrong Numbers.MP3",
+		"lyric": "05\uff0dNo Wrong Numbers.lrc"
 	}, {
 		"id": 6,
-		"title": "Percy Buttons"
+		"title": "Percy Buttons",
+		"music": "06\uff0dPercy Buttons.MP3",
+		"lyric": "06\uff0dPercy Buttons.lrc"
 	}, {
 		"id": 7,
-		"title": "Too Late"
+		"title": "Too Late",
+		"music": "07\uff0dToo Late.MP3",
+		"lyric": "07\uff0dToo Late.lrc"
 	}, {
 		"id": 8,
-		"title": "The Best and the Worst"
+		"title": "The Best and the Worst",
+		"music": "08\uff0dThe Best and the Worst.MP3",
+		"lyric": "08\uff0dThe Best and the Worst.lrc"
 	}, {
 		"id": 9,
-		"title": "A Cold Welcome"
+		"title": "A Cold Welcome",
+		"music": "09\uff0dA Cold Welcome.MP3",
+		"lyric": "09\uff0dA Cold Welcome.lrc"
 	}, {
 		"id": 10,
-		"title": "Not for Jazz"
+		"title": "Not for Jazz",
+		"music": "10\uff0dNot for Jazz.MP3",
+		"lyric": "10\uff0dNot for Jazz.lrc"
 	}, {
 		"id": 11,
-		"title": "One Good Turn Deserves Another"
+		"title": "One Good Turn Deserves Another",
+		"music": "11\uff0dOne Good Turn Deserves Another.MP3",
+		"lyric": "11\uff0dOne Good Turn Deserves Another.lrc"
 	}, {
 		"id": 12,
-		"title": "Goodbye and Good Luck"
+		"title": "Goodbye and Good Luck",
+		"music": "12\uff0dGoodbye and Good Luck.MP3",
+		"lyric": "12\uff0dGoodbye and Good Luck.lrc"
 	}, {
 		"id": 13,
-		"title": "The Greenwood Boys"
+		"title": "The Greenwood Boys",
+		"music": "13\uff0dThe Greenwood Boys.MP3",
+		"lyric": "13\uff0dThe Greenwood Boys.lrc"
 	}, {
 		"id": 14,
-		"title": "Do You Speak English"
+		"title": "Do You Speak English",
+		"music": "14\uff0dDo You Speak English.MP3",
+		"lyric": "14\uff0dDo You Speak English.lrc"
 	}, {
 		"id": 15,
-		"title": "Good News"
+		"title": "Good News",
+		"music": "15\uff0dGood News.MP3",
+		"lyric": "15\uff0dGood News.lrc"
 	}, {
 		"id": 16,
-		"title": "A Polite Request"
+		"title": "A Polite Request",
+		"music": "16\uff0dA Polite Request.MP3",
+		"lyric": "16\uff0dA Polite Request.lrc"
 	}, {
 		"id": 17,
-		"title": "Always Young"
+		"title": "Always Young",
+		"music": "17\uff0dAlways Young.MP3",
+		"lyric": "17\uff0dAlways Young.lrc"
 	}, {
 		"id": 18,
-		"title": "He Often does This"
+		"title": "He Often does This",
+		"music": "18\uff0dHe Often does This.MP3",
+		"lyric": "18\uff0dHe Often does This.lrc"
 	}, {
 		"id": 19,
-		"title": "Sold Out"
+		"title": "Sold Out",
+		"music": "19\uff0dSold Out.MP3",
+		"lyric": "19\uff0dSold Out.lrc"
 	}, {
 		"id": 20,
-		"title": "One Man in a Boat"
+		"title": "One Man in a Boat",
+		"music": "20\uff0dOne Man in a Boat.MP3",
+		"lyric": "20\uff0dOne Man in a Boat.lrc"
 	}, {
 		"id": 21,
-		"title": "Mad or Not"
+		"title": "Mad or Not",
+		"music": "21\uff0dMad or Not.MP3",
+		"lyric": "21\uff0dMad or Not.lrc"
 	}, {
 		"id": 22,
-		"title": "A Glass Envelope"
+		"title": "A Glass Envelope",
+		"music": "22\uff0dA Glass Envelope.MP3",
+		"lyric": "22\uff0dA Glass Envelope.lrc"
 	}, {
 		"id": 23,
-		"title": "A New House"
+		"title": "A New House",
+		"music": "23\uff0dA New House.MP3",
+		"lyric": "23\uff0dA New House.lrc"
 	}, {
 		"id": 24,
-		"title": "It Could be Worse"
+		"title": "It Could be Worse",
+		"music": "24\uff0dIt Could be Worse.MP3",
+		"lyric": "24\uff0dIt Could be Worse.lrc"
 	}, {
 		"id": 25,
-		"title": "Do the English Speak English"
+		"title": "Do the English Speak English",
+		"music": "25\uff0dDo the English Speak English.MP3",
+		"lyric": "25\uff0dDo the English Speak English.lrc"
 	}, {
 		"id": 26,
-		"title": "The Best Art Critics"
+		"title": "The Best Art Critics",
+		"music": "26\uff0dThe Best Art Critics.MP3",
+		"lyric": "26\uff0dThe Best Art Critics.lrc"
 	}, {
 		"id": 27,
-		"title": "A Wet Night"
+		"title": "A Wet Night",
+		"music": "27\uff0dA Wet Night.MP3",
+		"lyric": "27\uff0dA Wet Night.lrc"
 	}, {
 		"id": 28,
-		"title": "No Parking"
+		"title": "No Parking",
+		"music": "28\uff0dNo Parking.MP3",
+		"lyric": "28\uff0dNo Parking.lrc"
 	}, {
 		"id": 29,
-		"title": "Taxi"
+		"title": "Taxi",
+		"music": "29\uff0dTaxi.MP3",
+		"lyric": "29\uff0dTaxi.lrc"
 	}, {
 		"id": 30,
-		"title": "Football or Polo"
+		"title": "Football or Polo",
+		"music": "30\uff0dFootball or Polo.MP3",
+		"lyric": "30\uff0dFootball or Polo.lrc"
 	}, {
 		"id": 31,
-		"title": "Success Story"
+		"title": "Success Story",
+		"music": "31\uff0dSuccess Story.MP3",
+		"lyric": "31\uff0dSuccess Story.lrc"
 	}, {
 		"id": 32,
-		"title": "Shopping Made Easy"
+		"title": "Shopping Made Easy",
+		"music": "32\uff0dShopping Made Easy.MP3",
+		"lyric": "32\uff0dShopping Made Easy.lrc"
 	}, {
 		"id": 33,
-		"title": "Out of the Darkness"
+		"title": "Out of the Darkness",
+		"music": "33\uff0dOut of the Darkness.MP3",
+		"lyric": "33\uff0dOut of the Darkness.lrc"
 	}, {
 		"id": 34,
-		"title": "Quick Work"
+		"title": "Quick Work",
+		"music": "34\uff0dQuick Work.MP3",
+		"lyric": "34\uff0dQuick Work.lrc"
 	}, {
 		"id": 35,
-		"title": "Stop Thief"
+		"title": "Stop Thief",
+		"music": "35\uff0dStop Thief.MP3",
+		"lyric": "35\uff0dStop Thief.lrc"
 	}, {
 		"id": 36,
-		"title": "Across the Channel"
+		"title": "Across the Channel",
+		"music": "36\uff0dAcross the Channel.MP3",
+		"lyric": "36\uff0dAcross the Channel.lrc"
 	}, {
 		"id": 37,
-		"title": "The Olympic Games"
+		"title": "The Olympic Games",
+		"music": "37\uff0dThe Olympic Games.MP3",
+		"lyric": "37\uff0dThe Olympic Games.lrc"
 	}, {
 		"id": 38,
-		"title": "Everything Except the Weather"
+		"title": "Everything Except the Weather",
+		"music": "38\uff0dEverything Except the Weather.MP3",
+		"lyric": "38\uff0dEverything Except the Weather.lrc"
 	}, {
 		"id": 39,
-		"title": "Am I All Right"
+		"title": "Am I All Right",
+		"music": "39\uff0dAm I All Right.MP3",
+		"lyric": "39\uff0dAm I All Right.lrc"
 	}, {
 		"id": 40,
-		"title": "Food and Talk"
+		"title": "Food and Talk",
+		"music": "40\uff0dFood and Talk.MP3",
+		"lyric": "40\uff0dFood and Talk.lrc"
 	}, {
 		"id": 41,
-		"title": "Do You Call That a Hat"
+		"title": "Do You Call That a Hat",
+		"music": "41\uff0dDo You Call That a Hat.MP3",
+		"lyric": "41\uff0dDo You Call That a Hat.lrc"
 	}, {
 		"id": 42,
-		"title": "Not Very Musical"
+		"title": "Not Very Musical",
+		"music": "42\uff0dNot Very Musical.MP3",
+		"lyric": "42\uff0dNot Very Musical.lrc"
 	}, {
 		"id": 43,
-		"title": "Over the South Pole"
+		"title": "Over the South Pole",
+		"music": "43\uff0dOver the South Pole.MP3",
+		"lyric": "43\uff0dOver the South Pole.lrc"
 	}, {
 		"id": 44,
-		"title": "Through the Forest"
+		"title": "Through the Forest",
+		"music": "44\uff0dThrough the Forest.MP3",
+		"lyric": "44\uff0dThrough the Forest.lrc"
 	}, {
 		"id": 45,
-		"title": "A Clear Conscience"
+		"title": "A Clear Conscience",
+		"music": "45\uff0dA Clear Conscience.MP3",
+		"lyric": "45\uff0dA Clear Conscience.lrc"
 	}, {
 		"id": 46,
-		"title": "Expensive and Uncomfortable"
+		"title": "Expensive and Uncomfortable",
+		"music": "46\uff0dExpensive and Uncomfortable.MP3",
+		"lyric": "46\uff0dExpensive and Uncomfortable.lrc"
 	}, {
 		"id": 47,
-		"title": "A Thirsty Ghost"
+		"title": "A Thirsty Ghost",
+		"music": "47\uff0dA Thirsty Ghost.MP3",
+		"lyric": "47\uff0dA Thirsty Ghost.lrc"
 	}, {
 		"id": 48,
-		"title": "Did You Want to Tell Me Something"
+		"title": "Did You Want to Tell Me Something",
+		"music": "48\uff0dDid You Want to Tell Me Something.MP3",
+		"lyric": "48\uff0dDid You Want to Tell Me Something.lrc"
 	}, {
 		"id": 49,
-		"title": "The End of a Dream"
+		"title": "The End of a Dream",
+		"music": "49\uff0dThe End of a Dream.MP3",
+		"lyric": "49\uff0dThe End of a Dream.lrc"
 	}, {
 		"id": 50,
-		"title": "Taken for a Ride"
+		"title": "Taken for a Ride",
+		"music": "50\uff0dTaken for a Ride.MP3",
+		"lyric": "50\uff0dTaken for a Ride.lrc"
 	}, {
 		"id": 51,
-		"title": "Reward for Virtue"
+		"title": "Reward for Virtue",
+		"music": "51\uff0dReward for Virtue.MP3",
+		"lyric": "51\uff0dReward for Virtue.lrc"
 	}, {
 		"id": 52,
-		"title": "A Pretty Carpet"
+		"title": "A Pretty Carpet",
+		"music": "52\uff0dA Pretty Carpet.MP3",
+		"lyric": "52\uff0dA Pretty Carpet.lrc"
 	}, {
 		"id": 53,
-		"title": "Hot Snake"
+		"title": "Hot Snake",
+		"music": "53\uff0dHot Snake.MP3",
+		"lyric": "53\uff0dHot Snake.lrc"
 	}, {
 		"id": 54,
-		"title": "Sticky Fingers"
+		"title": "Sticky Fingers",
+		"music": "54\uff0dSticky Fingers.MP3",
+		"lyric": "54\uff0dSticky Fingers.lrc"
 	}, {
 		"id": 55,
-		"title": "Not a Gold Mine"
+		"title": "Not a Gold Mine",
+		"music": "55\uff0dNot a Gold Mine.MP3",
+		"lyric": "55\uff0dNot a Gold Mine.lrc"
 	}, {
 		"id": 56,
-		"title": "Faster Than Sound"
+		"title": "Faster Than Sound",
+		"music": "56\uff0dFaster Than Sound.MP3",
+		"lyric": "56\uff0dFaster Than Sound.lrc"
 	}, {
 		"id": 57,
-		"title": "Can I Help You, Madam"
+		"title": "Can I Help You, Madam",
+		"music": "57\uff0dCan I Help You, Madam.MP3",
+		"lyric": "57\uff0dCan I Help You, Madam.lrc"
 	}, {
 		"id": 58,
-		"title": "A Blessing in Disguise"
+		"title": "A Blessing in Disguise",
+		"music": "58\uff0dA Blessing in Disguise.MP3",
+		"lyric": "58\uff0dA Blessing in Disguise.lrc"
 	}, {
 		"id": 59,
-		"title": "In or Out"
+		"title": "In or Out",
+		"music": "59\uff0dIn or Out.MP3",
+		"lyric": "59\uff0dIn or Out.lrc"
 	}, {
 		"id": 60,
-		"title": "The Future"
+		"title": "The Future",
+		"music": "60\uff0dThe Future.MP3",
+		"lyric": "60\uff0dThe Future.lrc"
 	}, {
 		"id": 61,
-		"title": "Trouble with the Hubble"
+		"title": "Trouble with the Hubble",
+		"music": "61\uff0dTrouble with the Hubble.MP3",
+		"lyric": "61\uff0dTrouble with the Hubble.lrc"
 	}, {
 		"id": 62,
-		"title": "After the Fire"
+		"title": "After the Fire",
+		"music": "62\uff0dAfter the Fire.MP3",
+		"lyric": "62\uff0dAfter the Fire.lrc"
 	}, {
 		"id": 63,
-		"title": "She Was Not Amused"
+		"title": "She Was Not Amused",
+		"music": "63\uff0dShe Was Not Amused.MP3",
+		"lyric": "63\uff0dShe Was Not Amused.lrc"
 	}, {
 		"id": 64,
-		"title": "The Channel Tunnel"
+		"title": "The Channel Tunnel",
+		"music": "64\uff0dThe Channel Tunnel.MP3",
+		"lyric": "64\uff0dThe Channel Tunnel.lrc"
 	}, {
 		"id": 65,
-		"title": "Jumbo Versus the Police"
+		"title": "Jumbo Versus the Police",
+		"music": "65\uff0dJumbo Versus the Police.MP3",
+		"lyric": "65\uff0dJumbo Versus the Police.lrc"
 	}, {
 		"id": 66,
-		"title": "Sweet as Honey"
+		"title": "Sweet as Honey",
+		"music": "66\uff0dSweet as Honey.MP3",
+		"lyric": "66\uff0dSweet as Honey.lrc"
 	}, {
 		"id": 67,
-		"title": "Volcanoes"
+		"title": "Volcanoes",
+		"music": "67\uff0dVolcanoes.MP3",
+		"lyric": "67\uff0dVolcanoes.lrc"
 	}, {
 		"id": 68,
-		"title": "Persistent"
+		"title": "Persistent",
+		"music": "68\uff0dPersistent.MP3",
+		"lyric": "68\uff0dPersistent.lrc"
 	}, {
 		"id": 69,
-		"title": "But not Murder"
+		"title": "But not Murder",
+		"music": "69\uff0dBut not Murder.MP3",
+		"lyric": "69\uff0dBut not Murder.lrc"
 	}, {
 		"id": 70,
-		"title": "Red for Danger"
+		"title": "Red for Danger",
+		"music": "70\uff0dRed for Danger.MP3",
+		"lyric": "70\uff0dRed for Danger.lrc"
 	}, {
 		"id": 71,
-		"title": "A Famous Clock"
+		"title": "A Famous Clock",
+		"music": "71\uff0dA Famous Clock.MP3",
+		"lyric": "71\uff0dA Famous Clock.lrc"
 	}, {
 		"id": 72,
-		"title": "A Car Called Bluebird"
+		"title": "A Car Called Bluebird",
+		"music": "72\uff0dA Car Called Bluebird.MP3",
+		"lyric": "72\uff0dA Car Called Bluebird.lrc"
 	}, {
 		"id": 73,
-		"title": "The Record-Holder"
+		"title": "The Record-Holder",
+		"music": "73\uff0dThe Record-Holder.MP3",
+		"lyric": "73\uff0dThe Record-Holder.lrc"
 	}, {
 		"id": 74,
-		"title": "Out of the Limelight"
+		"title": "Out of the Limelight",
+		"music": "74\uff0dOut of the Limelight.MP3",
+		"lyric": "74\uff0dOut of the Limelight.lrc"
 	}, {
 		"id": 75,
-		"title": "SOS"
+		"title": "SOS",
+		"music": "75\uff0dSOS.MP3",
+		"lyric": "75\uff0dSOS.lrc"
 	}, {
 		"id": 76,
-		"title": "April Fools' Day"
+		"title": "April Fools' Day",
+		"music": "76\uff0dApril Fools' Day.MP3",
+		"lyric": "76\uff0dApril Fools' Day.lrc"
 	}, {
 		"id": 77,
-		"title": "A Successful Operation"
+		"title": "A Successful Operation",
+		"music": "77\uff0dA Successful Operation.MP3",
+		"lyric": "77\uff0dA Successful Operation.lrc"
 	}, {
 		"id": 78,
-		"title": "The Last One"
+		"title": "The Last One",
+		"music": "78\uff0dThe Last One.MP3",
+		"lyric": "78\uff0dThe Last One.lrc"
 	}, {
 		"id": 79,
-		"title": "By Air"
+		"title": "By Air",
+		"music": "79\uff0dBy Air.MP3",
+		"lyric": "79\uff0dBy Air.lrc"
 	}, {
 		"id": 80,
-		"title": "The Crystal Palace"
+		"title": "The Crystal Palace",
+		"music": "80\uff0dThe Crystal Palace.MP3",
+		"lyric": "80\uff0dThe Crystal Palace.lrc"
 	}, {
 		"id": 81,
-		"title": "Escape"
+		"title": "Escape",
+		"music": "81\uff0dEscape.MP3",
+		"lyric": "81\uff0dEscape.lrc"
 	}, {
 		"id": 82,
-		"title": "Monster or Fish"
+		"title": "Monster or Fish",
+		"music": "82\uff0dMonster or Fish.MP3",
+		"lyric": "82\uff0dMonster or Fish.lrc"
 	}, {
 		"id": 83,
-		"title": "After the Elections"
+		"title": "After the Elections",
+		"music": "83\uff0dAfter the Elections.MP3",
+		"lyric": "83\uff0dAfter the Elections.lrc"
 	}, {
 		"id": 84,
-		"title": "On Strike"
+		"title": "On Strike",
+		"music": "84\uff0dOn Strike.MP3",
+		"lyric": "84\uff0dOn Strike.lrc"
 	}, {
 		"id": 85,
-		"title": "Never Too Old To Learn"
+		"title": "Never Too Old To Learn",
+		"music": "85\uff0dNever Too Old To Learn.MP3",
+		"lyric": "85\uff0dNever Too Old To Learn.lrc"
 	}, {
 		"id": 86,
-		"title": "Out of Control"
+		"title": "Out of Control",
+		"music": "86\uff0dOut of Control.MP3",
+		"lyric": "86\uff0dOut of Control.lrc"
 	}, {
 		"id": 87,
-		"title": "A Perfect Alibi"
+		"title": "A Perfect Alibi",
+		"music": "87\uff0dA Perfect Alibi.MP3",
+		"lyric": "87\uff0dA Perfect Alibi.lrc"
 	}, {
 		"id": 88,
-		"title": "Trapped in a Mine"
+		"title": "Trapped in a Mine",
+		"music": "88\uff0dTrapped in a Mine.MP3",
+		"lyric": "88\uff0dTrapped in a Mine.lrc"
 	}, {
 		"id": 89,
-		"title": "A Slip of the Tongue"
+		"title": "A Slip of the Tongue",
+		"music": "89\uff0dA Slip of the Tongue.MP3",
+		"lyric": "89\uff0dA Slip of the Tongue.lrc"
 	}, {
 		"id": 90,
-		"title": "What's for Supper"
+		"title": "What's for Supper",
+		"music": "90\uff0dWhat's for Supper.MP3",
+		"lyric": "90\uff0dWhat's for Supper.lrc"
 	}, {
 		"id": 91,
-		"title": "Three Men in a Basket"
+		"title": "Three Men in a Basket",
+		"music": "91\uff0dThree Men in a Basket.MP3",
+		"lyric": "91\uff0dThree Men in a Basket.lrc"
 	}, {
 		"id": 92,
-		"title": "Asking for Trouble"
+		"title": "Asking for Trouble",
+		"music": "92\uff0dAsking for Trouble.MP3",
+		"lyric": "92\uff0dAsking for Trouble.lrc"
 	}, {
 		"id": 93,
-		"title": "A Noble Gift"
+		"title": "A Noble Gift",
+		"music": "93\uff0dA Noble Gift.MP3",
+		"lyric": "93\uff0dA Noble Gift.lrc"
 	}, {
 		"id": 94,
-		"title": "Future Champions"
+		"title": "Future Champions",
+		"music": "94\uff0dFuture Champions.MP3",
+		"lyric": "94\uff0dFuture Champions.lrc"
 	}, {
 		"id": 95,
-		"title": "A Fantasy"
+		"title": "A Fantasy",
+		"music": "95\uff0dA Fantasy.MP3",
+		"lyric": "95\uff0dA Fantasy.lrc"
 	}, {
 		"id": 96,
-		"title": "The Dead Return"
+		"title": "The Dead Return",
+		"music": "96\uff0dThe Dead Return.MP3",
+		"lyric": "96\uff0dThe Dead Return.lrc"
 	}]
 }
